@@ -16,6 +16,7 @@ var crimeData = [
   { lat: 1.350, lng: 103.872, name: "Nex Shopping Centre", description: "Shop Theft" },
   { lat: 1.293, lng: 103.856, name: "Bugis", description: "Robbery-prone zone" },
   { lat: 1.280, lng: 103.850, name: "Marina Bay", description: "Car break-ins" },
+  { lat: 1.3642, lng: 103.8904, name: "22 Hougang Ave 3", description: "House Breaking 2" },
 ];
 
 // Custom icon
