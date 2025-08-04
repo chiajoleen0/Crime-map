@@ -11,7 +11,7 @@ var markers = L.markerClusterGroup();
 
 // Example hotspots
 var crimeData = [
-  { lat: 1.305, lng: 103.831, name: "Chinatown", description: "Frequent pickpocketing" },
+  { lat: 1.3529085, lng: 103.8889724, name: "114 Hougang Ave 1", description: "House Breaking" },
   { lat: 1.312, lng: 103.776, name: "Clementi", description: "Burglaries reported" },
   { lat: 1.350, lng: 103.872, name: "Toa Payoh", description: "High theft area" },
   { lat: 1.293, lng: 103.856, name: "Bugis", description: "Robbery-prone zone" },
