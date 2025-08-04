@@ -12,7 +12,7 @@ var markers = L.markerClusterGroup();
 // Example hotspots
 var crimeData = [
   { lat: 1.3540, lng: 103.8900, name: "105 Hougang Ave 1", description: "Burglaries reported" },
-  { lat: 1.3529° N, lng: 103.8751° E, name: "114 Hougang Ave 1", description: "Dispute" },
+  { lat: 1.3529, lng: 103.8751, name: "114 Hougang Ave 1", description: "Dispute" },
   { lat: 1.350, lng: 103.872, name: "Nex Shopping Centre", description: "Shop Theft" },
   { lat: 1.293, lng: 103.856, name: "Bugis", description: "Robbery-prone zone" },
   { lat: 1.280, lng: 103.850, name: "Marina Bay", description: "Car break-ins" },
